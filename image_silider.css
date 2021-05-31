@@ -1,0 +1,71 @@
+*{
+   
+    
+    
+    background-color: skyblue;
+    
+    
+}
+
+
+.container{
+    margin-top: 20rem;
+width: 50rem;
+margin: auto;
+overflow: hidden;
+
+border-radius: 30px;
+
+
+
+
+
+}
+
+.img-silider{
+ display: flex;
+ height: 25rem;
+ margin-top: 5rem;
+ al
+ 
+ 
+ 
+ 
+ 
+ 
+
+}
+
+#prevbtn{
+
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    left: 20%;
+    font-size: 30px;
+    color: darkcyan;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background:none;
+    opacity: 1;
+   
+   
+
+}
+#nextbtn{
+
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    right: 20%;
+    font-size: 30px;
+    color: cadetblue;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background:none;
+    opacity: 1;
+
+
+}
